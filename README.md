@@ -1,7 +1,7 @@
 # 🖥 Swift programming
 한빛미디어의 스위프트 프로그래밍(3판) 책을 보고 공부한 예제들입니다!  
 ***
-### 📕 PART 1 스위프트 기초<br>
+### [📕 PART 1 스위프트 기초](https://github.com/Imguma/Swift_Programming/tree/main/Part%201.%20%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8%20%EA%B8%B0%EC%B4%88)<br>
 [- 1장 스위프트]()<br> 
 [- 2장 스위프트 처음 시작하기](https://github.com/Imguma/Swift_Programming/tree/main/Part%201.%20%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8%20%EA%B8%B0%EC%B4%88/Chap_02_Swift.playground)<br>
 [- 3장 데이터 타입 기본](https://github.com/Imguma/Swift_Programming/tree/main/Part%201.%20%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8%20%EA%B8%B0%EC%B4%88/Chap_03_DataType1.playground)<br>
