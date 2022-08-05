@@ -41,4 +41,4 @@
 [- 29장 메모리 안전](https://github.com/Imguma/Swift_Programming/tree/main/Part%205.%20%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8%20%EA%B3%A0%EA%B8%89/Chap_29_Memory.playground)<br>
 [- 30장 불명확 타입](https://github.com/Imguma/Swift_Programming/tree/main/Part%205.%20%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8%20%EA%B3%A0%EA%B8%89/Chap_30_OpaquTypes.playground)<br>
 ***
-### [📖 개념정리 보러가기](https://blog.naver.com/PostList.naver?blogId=lgy0530&from=postList&categoryNo=17)<br>
+### [ 📖 개념정리 보러가기](https://blog.naver.com/PostList.naver?blogId=lgy0530&from=postList&categoryNo=17)<br>
